@@ -1,0 +1,26 @@
+.row-div{
+    display: flex;
+}
+.row-div p{
+    width: 200px;
+}.row-div input{
+    width: 200px;
+    height: 40px;
+}
+.phone-div select{
+    width: 30%;
+}
+.phone-div input{
+    width: 60%;
+}
+
+.row-main-div{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    width: 200px;
+}
+.header-div{
+    display: flex;
+}
